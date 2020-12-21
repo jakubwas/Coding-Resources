@@ -21,3 +21,9 @@
 18. [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast) - Monokai Charcoal with High Contrast frame.
 19. [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - npm support for VS Code.
 20. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier.
+21. [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
+22. [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker) - A simple, dependency free PHP specific DocBlocking package.
+23. [PHP import checker](https://marketplace.visualstudio.com/items?itemName=marabesi.php-import-checker) - Know when you are importing a class and is not using it in the file, easy and fast, inspired by PHPStorm.
+24. [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) - Advanced Autocompletion and Refactoring support for PHP.
+25. [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver) - Import and expand php namespaces.
+26. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
